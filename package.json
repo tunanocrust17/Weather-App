@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Odin project api practice ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunanocrust17/Weather-App.git"
+  },
+  "author": "tunanocrust17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunanocrust17/Weather-App/issues"
+  },
+  "homepage": "https://github.com/tunanocrust17/Weather-App#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.1",
+    "html-webpack-plugin": "^5.6.0",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
